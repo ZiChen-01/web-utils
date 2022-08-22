@@ -1,0 +1,25 @@
+{
+  "name": "sh-webutils",
+  "version": "1.0.0",
+  "description": "前端工具包，包含上百种javascript工具，方便快捷，持续更新。。。",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "wxmp",
+    "rsa",
+    "jsencrypt",
+    "js",
+    "long"
+  ],
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jiangzichen01/sihan-web-utils.git"
+  }
+}
