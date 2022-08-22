@@ -1,7 +1,8 @@
 #                    sh-webutils
 
-文档地址：<a href="https://jiangsihan.gitee.io/front_end/webutils/webutils.html">https://jiangsihan.gitee.io</a>
-仓库地址：<a href="https://gitee.com/jiangsihan/web-util">https://gitee.com/jiangsihan/web-util</a>
+| 文档地址     | https://jiangsihan.gitee.io/front_end/webutils/webutils.html |
+| -------- | ---------------------------------------- |
+| **仓库地址** | **https://gitee.com/jiangsihan/web-utils** |
 
 ::: tip  前端 JavaScript 函数工具库
 
