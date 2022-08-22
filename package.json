@@ -1,6 +1,6 @@
 {
   "name": "sh-webutils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "前端工具包，包含上百种javascript工具，方便快捷，持续更新。。。",
   "main": "src/index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jiangzichen01/sihan-web-utils.git"
+    "url": "https://jiangsihan.gitee.io/front_end/"
   }
 }
